@@ -1,0 +1,3 @@
+hooks/*.js
+platforms/*.js
+node_modules/*.js
